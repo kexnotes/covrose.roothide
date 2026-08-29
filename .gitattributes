@@ -1,0 +1,4 @@
+*.deb binary
+*.png binary
+*.xz binary
+*.zst binary
