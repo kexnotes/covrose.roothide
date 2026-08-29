@@ -18048,3 +18048,20 @@ MD5sum: b3dbdfd41eedb3ac74661ec97319192e
 SHA1: 75de61b3e83f11e376233e1b89ac0c30f5985fad
 SHA256: 2557e9fc3ed1584cb09755fdaa97bd783bbeb998ebe6fb277ba7431335c10472
 SHA512: fc8e0fd50bd4dd03a3f7948b443633721b1e8c75e25e1b936f7c1ad2183bf9e2b82660a03ae7830c94dba672c80ecf0bc92da9a47c22259e53cd7166af357854
+
+Package: com.opa334.trollstorelite
+Name: TrollStore Lite (RootHide)
+Description: TrollStore for RootHide jailbroken iOS
+Depends: ldid
+Maintainer: opa334
+Author: opa334
+Section: Applications
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Installed-Size: 556
+Filename: debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm64e.deb
+Size: 211888
+MD5sum: a041889a4889808f83533ee24840ace7
+SHA1: cb2a1ac5caea18195caf68c86e8651934e086b6d
+SHA256: 2c726d14e14599ae2ef724fb0cbf1444073ec567c017433deaf2de93f6b1874c
+SHA512: 5dff0d07cf4d7fe92d1083b4ec7c18b08c1fdaa5bafdea98abc39a7938188b71ab0cf6481ea1810a026b3552a0f328b5d43d050efc23b551a766b9784c5b86b5

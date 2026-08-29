@@ -24,6 +24,6 @@ deb https://kexnotes.github.io/covrose.roothide/procursus iphoneos-arm64e/1900 m
 - ~664 MB
 - Suite matching Dopamine RootHide `getCFMajorVersion()` = `1900`
 
-Search Sileo for **Covrose Patcher** (`com.roothide.patcher` 2.2.3) or **AppSync Unified** (`ai.akemi.appsyncunified` 116.1, firmware <= 18.7.1). The Patcher home-screen name is **CvPatcher**. Converted debs go to `/var/mobile/Documents/CvPatcher`.
+Search Sileo for **Covrose Patcher** (`com.roothide.patcher` 2.2.3), **AppSync Unified** (`ai.akemi.appsyncunified` 116.1), or **TrollStore Lite (RootHide)** (`com.opa334.trollstorelite` 2.1.1).
 
 iOS 15 (`1800`) is not mirrored here: GitHub Pages has a 1 GB site limit, and `1800` is another ~664 MB.
