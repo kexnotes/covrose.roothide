@@ -20,8 +20,10 @@ deb https://kexnotes.github.io/covrose.roothide/procursus iphoneos-arm64e/1900 m
 
 ## Contents
 
-- 772 package records / 766 unique `.deb` files
+- 772 mirrored Procursus records plus **Covrose Patcher** (`com.covrose.patcher`)
 - ~664 MB
 - Suite matching Dopamine RootHide `getCFMajorVersion()` = `1900`
+
+Search Sileo for **Covrose Patcher**. The app icon name is **CvPatcher**. Converted debs go to `/var/mobile/Documents/CvPatcher`.
 
 iOS 15 (`1800`) is not mirrored here: GitHub Pages has a 1 GB site limit, and `1800` is another ~664 MB.

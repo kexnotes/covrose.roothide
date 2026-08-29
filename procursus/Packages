@@ -18004,3 +18004,25 @@ Description: fast lossless compression algorithm -- CLI tool
  .
  This package contains the CLI program implementing zstd.
 
+Package: com.covrose.patcher
+Name: Covrose Patcher
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Replaces: com.roothide.patcher
+Conflicts: com.roothide.patcher
+Provides: com.roothide.patcher
+Description: Convert rootless .deb packages to RootHide/Covrose. Working directory: /var/mobile/Documents/CvPatcher
+Maintainer: Covrose
+Author: Covrose
+Section: Utilities
+Icon: https://github.com/roothide/RootHidePatcher/raw/master/derootifier-2-modified.png
+Depiction: https://github.com/kexnotes/CvPatcher
+Support: https://github.com/kexnotes/CvPatcher
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Installed-Size: 2460
+Filename: debs/com.covrose.patcher_2.2.0_iphoneos-arm64e.deb
+Size: 891020
+MD5sum: 5c605d7755b8ffc9c276071f976f1bef
+SHA1: 23382d38e1b0df45649faacdf8dfd8b215bccd5e
+SHA256: dc8f9abc8d858100ce4ab95b7a08f58cc73b6ca1d6a06a5b325cf0f2fe025561
+SHA512: c9bd0f11425c1f56bcbf3017bcbc6929b602dcafe3ef79950da9e7087150171e4f7582b55005d2c6e2302b7c3dd94a67baca863eb835b4c22b32f91cdc2f9959
