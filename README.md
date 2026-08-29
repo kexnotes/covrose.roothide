@@ -6,15 +6,13 @@ Built from [https://roothide.github.io/procursus](https://roothide.github.io/pro
 
 ## Add in Sileo
 
+Paste this URL (flat repo — Sileo looks for `/Release` here):
+
 ```
 https://kexnotes.github.io/covrose.roothide/procursus
 ```
 
-Suite: `iphoneos-arm64e/1900`  
-Component: `main`  
-Architecture: `iphoneos-arm64e`
-
-Equivalent `sources.list` line:
+The dists layout is also kept for:
 
 ```
 deb https://kexnotes.github.io/covrose.roothide/procursus iphoneos-arm64e/1900 main

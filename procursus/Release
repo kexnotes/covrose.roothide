@@ -1,0 +1,50 @@
+Origin: Covrose RootHide
+Label: Covrose RootHide Procursus
+Suite: stable
+Version: 1.0
+Codename: covrose
+Architectures: iphoneos-arm64e
+Components: main
+Description: Covrose RootHide Procursus (iphoneos-arm64e/1900)
+Date: Sat, 29 Aug 2026 18:49:18 +0000
+Icon: file://CydiaIcon.png
+MD5Sum:
+ 37772255aba45cb602141b73b7fb75e4           830934 Packages
+ be46c858e1bde3fb4c69130c0510d6f3           233270 Packages.gz
+ ce26dcfdfe35e97097cb45cb131894f2           189970 Packages.bz2
+ e859a83d0e8ca9f9cf1d2912c24c634f           192408 Packages.xz
+ 65bbf0cc7173927c0a61c23ba3258ba1             3789 CydiaIcon.png
+ c8cff50cf9930c89870dd9487676b38a             4926 CydiaIcon@2x.png
+ dd2bb0341fb48eec1824143b975d3c5d             9579 CydiaIcon@3x.png
+ 65bbf0cc7173927c0a61c23ba3258ba1             3789 RepoIcon.png
+ dd2bb0341fb48eec1824143b975d3c5d             9579 RepoIcon@3x.png
+SHA1:
+ c8731f5e6d8a9f8d31039381610b81ba67731fe5           830934 Packages
+ 21f9f011919ff101505813e0d32fc0d1cbb020fd           233270 Packages.gz
+ ebd2ae4890b4af0d966182b5f9ee54c78505e5f4           189970 Packages.bz2
+ 8e83081a8fa40f29dcb5425795dde33db5b3b744           192408 Packages.xz
+ 3340b281b8b0c49119483735803b5b63b654c3aa             3789 CydiaIcon.png
+ a225c8f938d86401d07349ed17da76affc0902db             4926 CydiaIcon@2x.png
+ 64795653fe9f00c8f5607ff0f653c43e0e03edcf             9579 CydiaIcon@3x.png
+ 3340b281b8b0c49119483735803b5b63b654c3aa             3789 RepoIcon.png
+ 64795653fe9f00c8f5607ff0f653c43e0e03edcf             9579 RepoIcon@3x.png
+SHA256:
+ 418e7c1db5a67ec160e6cdf8847123ac6dedd2376a4fa148d7aa94e5966f0b86           830934 Packages
+ 82064b30fe38eb1ec8d281bdc6b1f0e251d02cd73dc1ca5060d903908daefa0a           233270 Packages.gz
+ 8841c1b2c7c514ec03905d8e06003b33305814264e7c23bc46112e6391823db6           189970 Packages.bz2
+ c5f1d50a78a198a64615e9899552400de474a640a0a406f09bf1332121d861e8           192408 Packages.xz
+ 2519317146923d216b93bf03aa1f7e3eca4b717a5a13743295f929a94e58ce4b             3789 CydiaIcon.png
+ e86607c47d641df8e968edce33b6739c517f4fae585b0de93d0465d6d413d98f             4926 CydiaIcon@2x.png
+ ac0a74cc8fa1c1d628be811080a020dc2645d26724b6a1830fdccc8bd839e142             9579 CydiaIcon@3x.png
+ 2519317146923d216b93bf03aa1f7e3eca4b717a5a13743295f929a94e58ce4b             3789 RepoIcon.png
+ ac0a74cc8fa1c1d628be811080a020dc2645d26724b6a1830fdccc8bd839e142             9579 RepoIcon@3x.png
+SHA512:
+ 3fd1ed3551857039651fa9e115a389e46ac3768ab284caf1d6821e1843a47e0a2f20da04240c0d0ab30618910b3d78c41d6974317c5fc8829c28f5523b112dda           830934 Packages
+ 7b8666e7812a695a6db9e4429b0f53645614ac43238462bad51d85b1cf0b7b10144ded71277225c7dfda868831357de1c67a8cce1cdb2a8aaffd551a15128265           233270 Packages.gz
+ ae01b3847cc99b136b85658376c2e08edb37a6d266c4066049bf3a92bb35f6876052760deab5dbcd2dd542dc46d10336c18959e0e4c891a285cd059026d8762b           189970 Packages.bz2
+ 7a0d1b0e19f2e145569b505ed98575495c2f2603f9a2a40c9e612775b4d3b1775c813a3c1800f19b63438e49d4d031939e4163d5f79b0f788c7c7fd7ddc84c39           192408 Packages.xz
+ a53483b32d3d66edd744742fbd298d8959f3f6524a7412501b4838b225c77a18be3bea8c32be28c801cc7913f93f3cb6af39e419b5fd1de1f988e44d4724be37             3789 CydiaIcon.png
+ 9c1a47ad4b4b02a012692bf28848704ebe06e1e2e3a0c4f6752280eb479d3dbead1544a7a6faccbabedd6fab9126bc2a9ea844a2a1ee34014b419828eec76094             4926 CydiaIcon@2x.png
+ dbc85e3eb8bd6fbd75424ca885a2dcaa2d7d0f47adce9893122bdc1399ed66e1ade0d2acbdfa6d177f07d191c73f954b0583fc68f94feb63b19c8b6cba42d23d             9579 CydiaIcon@3x.png
+ a53483b32d3d66edd744742fbd298d8959f3f6524a7412501b4838b225c77a18be3bea8c32be28c801cc7913f93f3cb6af39e419b5fd1de1f988e44d4724be37             3789 RepoIcon.png
+ dbc85e3eb8bd6fbd75424ca885a2dcaa2d7d0f47adce9893122bdc1399ed66e1ade0d2acbdfa6d177f07d191c73f954b0583fc68f94feb63b19c8b6cba42d23d             9579 RepoIcon@3x.png
